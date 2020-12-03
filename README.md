@@ -1,2 +1,2 @@
-# MLPython-capstone-Project1
-Coursera capstone Project Machine Learning with Python 
+# MLPython-Project1
+Project#1 Machine Learning with Python 
